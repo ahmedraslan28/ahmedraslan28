@@ -19,7 +19,7 @@
 
 
 <!-- <h3 align="centre">Connect with me:</h3> -->
-<div align="left">
+<div align="center">
 <a href="https://www.linkedin.com/in/ahmedraslan28/"><img align="left" alt="raslan's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
 
 <a href="[https://www.facebook.com/AbdallahHemdan99](https://www.facebook.com/profile.php?id=100002455175512)">
