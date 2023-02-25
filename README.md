@@ -12,8 +12,9 @@
   
   # Hey <img align="center" src="https://github.com/ahmedraslan28/ahmedraslan28/blob/main/wave.gif" width="40px" height="40px">,I'm [Ahmed Raslan](https://www.linkedin.com/in/ahmedraslan28/) 
 
+  <h3 align="center">A passionate Backend developer from Egypt</h3>
 </div>
-<h3 align="center">A passionate Backend developer from Egypt</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
