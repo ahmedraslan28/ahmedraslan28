@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=ahmedraslan28&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedraslan" />
 </div>
 
-<div align="center">
+<div align="left">
   
   # Hey <img align="center" src="https://github.com/ahmedraslan28/ahmedraslan28/blob/main/wave.gif" width="40px" height="40px">,I'm [Ahmed Raslan](https://www.linkedin.com/in/ahmedraslan28/) 
 
