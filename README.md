@@ -14,8 +14,6 @@
 
   <h3>A passionate Backend developer from Egypt</h3>
 </div>
-
-
 <br/>
 
 # 📕 Connect with me:
