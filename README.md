@@ -10,7 +10,7 @@
 
 <div align="left">
   
-  # Hey         <img align="center" src="https://github.com/ahmedraslan28/ahmedraslan28/blob/main/wave.gif" width="40px" height="40px">,I'm [Ahmed Raslan](https://www.linkedin.com/in/ahmedraslan28/) 
+  # Hey <img align="center" src="https://github.com/ahmedraslan28/ahmedraslan28/blob/main/wave.gif" width="40px" height="40px">,I'm [Ahmed Raslan](https://www.linkedin.com/in/ahmedraslan28/) 
 
   <h3>A passionate Backend Developer from Egypt</h3>
 </div>
