@@ -1,49 +1,77 @@
-<p align="center">
+<h1 align="left">Hey 👋 What's up?</h1>
 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-  
-</p>
+###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedraslan28&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedraslan" />
+  <img height="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
 </div>
+
+###
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedraslan28&label=Profile%20views&color=0e75b6&style=flat" alt="abdallahalseddek" />
+  <a href="mailto:ahmedraslan28@gmail.com"><img alt="Email" src="https://img.shields.io/badge/ahmedraslan28@gmail.com-A23566?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/ahmedraslan28"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100002455175512"><img src="https://img.shields.io/badge/facebook-blue?style=flat&logo=facebook&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/ahmedraslan28"><img src="https://img.shields.io/badge/codeForces-green?style=flat&logo=codeforces&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/ahmedraslan28/"><img src="https://img.shields.io/badge/leetdoce-blueblack?style=flat&logo=leetcode&logoColor=white"/></a>
+</p>
+
+  ###
+
+<p align="center">I’m a software engineer who is passionate about Backend systems and software architecture and design. Enjoy coding in Java</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">👋 Hi, my name is Ahmed Raslan<br><br>👨‍💻 I'm Software Development Engineer, Interested mainly in backend development<br><br>🏆 Problem solver with achievements in programming competitions(Acpc, facebook hacker cup, ....).<br><br>🌱 I’m currently learning Distributed systems and Microservices<br><br>📕 I’m currently open for a new job opportunity.</p>
+
+###
+
+<h2 align="left">💻 Tech Stack:</h2>
+
+###
 
 <div align="left">
-  
-  # Hey <img align="center" src="https://github.com/ahmedraslan28/ahmedraslan28/blob/main/wave.gif" width="40px" height="40px">,I'm [Ahmed Raslan](https://www.linkedin.com/in/ahmedraslan28/) 
-
-  <h3>A passionate Backend Developer from Egypt</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
-<br/>
 
-# 📕 Connect with me:
+###
 
-<p align="left">
-<a href="https://linkedin.com/in/ahmedraslan28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedraslan28" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100002455175512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100002455175512" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ahmedraslan28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmedraslan28" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ahmedraslan28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmedraslan28" height="30" width="40" /></a>
-  <a href="mailto:ahmedraslan28@gmail.com">
-  <img align="left" alt="raslan's gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" draggable="false" />
-</a>
-</p>
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedraslan28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedraslan28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
-- Software Engineer with solid fundamentals of Software Development (data structures, algorithms, OOP and database). 
-- Interested mainly in backend development with a passion for encountering complex queries, database designing, and optimization.
-- I am dedicated to building robust and scalable applications that solve real-world problems.
-- Problem solver with strong competitive programming experience and more advanced algorithms, participated in different programing competitions(Acpc, facebook hacker cup, ....)
-- solve +2000 problem in different online judges(codeforces, leetcode, .....)
-
-<br/>
-
-
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills!
-
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
-
-<br/>
-
-<p > <img src="https://github-readme-stats.vercel.app/api?username=ahmedraslan28&show_icons=true" alt="ahmedraslan28" /> </p>
-
+###
