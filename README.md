@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">👋 Hi, my name is Ahmed Raslan<br><br>👨‍💻 I'm Software Development Engineer, Interested mainly in backend development<br><br>🏆 Problem solver with achievements in programming competitions(Acpc, facebook hacker cup, ....).<br><br>🌱 I’m currently learning Distributed systems and Microservices<br><br>📕 I’m currently open for a new job opportunity.</p>
+<p align="left">👋 my name is Ahmed Raslan<br><br>👨‍💻 I'm Software Development Engineer, Interested mainly in backend development<br><br>🏆 Problem solver with achievements in programming competitions(Acpc, facebook hacker cup, ....).<br><br>🌱 I’m currently learning Distributed systems and Microservices<br><br>📕 I’m currently open for a new job opportunity.</p>
 
 ###
 
